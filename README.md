@@ -1,5 +1,9 @@
-# Aplicaciones Móviles
+# Aplicaciones Móviles.
 
-## Integrantes: #### Juan Manuel Londoño González #### Samuel Cortés Rojas #### Karly Mariana Velazques 
+## Integrantes: 
+#### Juan Manuel Londoño González.
+#### Samuel Cortés Rojas 
+#### Karly Mariana Velázquez. 
 
-## Link del remake Ulises: ### https://unaul-estudiantes-remake.vercel.app/
+## Link del remake Ulises: 
+### https://unaul-estudiantes-remake.vercel.app/
